@@ -1,3 +1,16 @@
 h1{
     color:#4dffc3;
 }
+body {
+  text-align: center;
+  font-family: 'Italianno', cursive;
+  color: #4dffff;
+  font-size: 100px;
+}
+
+button {
+   color: #4dffff;
+   background-color: #bfbfbf;
+   font-size: 30px;
+   left: 400px;
+}
