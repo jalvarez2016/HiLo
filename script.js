@@ -1,3 +1,5 @@
+/*global $*/
+
 $(document).ready(function(){
 var secretNum = 7;
    $("button").click(function(){
@@ -15,4 +17,8 @@ var secretNum = 7;
         $("#hint").html("Please type a number and that number should between 1 ~ 10");
       }
   });
+  
+  $()
+  
+  
 });
